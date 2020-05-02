@@ -1,8 +1,8 @@
 package com.mitocode.inter.impl;
 
-import com.mitocode.inter.IConexionBD;
+import com.mitocode.inter.IConexion;
 
-public class ConexionOracle implements IConexionBD {
+public class ConexionOracle implements IConexion {
 
 	private String host;
 	private String puerto;

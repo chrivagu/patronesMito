@@ -11,8 +11,10 @@
     <modules>
         <module>AbstractFactory</module>
         <module>Singleton</module>
-        <module>Singleton</module>
-        <module>TheSingleton</module>
+        <module>Prototype</module>
+        <module>Facade</module>
+        <module>FactoryMethod</module>
+        <module>Decorator</module>
     </modules>
 
 
