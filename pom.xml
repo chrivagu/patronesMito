@@ -15,6 +15,7 @@
         <module>Facade</module>
         <module>FactoryMethod</module>
         <module>Decorator</module>
+        <module>Proxy</module>
     </modules>
 
 
